@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "308007931462",
+    "project_id": "chat-app-adb3f",
+    "storage_bucket": "chat-app-adb3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308007931462:android:3ba3d250f991ef32988447",
+        "android_client_info": {
+          "package_name": "com.kadir.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308007931462-icdpnt8u3if8082kkdnj4bs2k3ndttgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ngiZ7yoUwkp8AGBB1F2KBTVVxu-TxVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308007931462-icdpnt8u3if8082kkdnj4bs2k3ndttgd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308007931462-9mgeb71qm7d93ui1ak58u4sj7bjcetcp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
